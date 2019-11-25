@@ -1,2 +1,2 @@
 Test
-![dl](media/Download-Button-sm.png)
+![download](/media/Download-Button-sm.png)
