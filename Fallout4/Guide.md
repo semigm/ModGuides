@@ -1,2 +1,2 @@
 Test
-[![download](/media/Download-Button-sm.png)](www.google.com)
+[![download](/media/Download-Button-sm.png)](http://www.google.com)
